@@ -12,3 +12,5 @@ create 4 rows namely "id" -  integer primary key.
    and now paste the file to htdocs folder inside xampp folder.
    and run the website using the link= "localhost:portnumber(optional)/mdb/"
    it will run the website and done.
+
+  Rename the main folder name to "mdb"  from mdb-main.
