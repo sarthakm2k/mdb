@@ -1,0 +1,46 @@
+what my project is:
+>movie review/rating website of all the movies that i have watched not the reviews of all movies.
+>rating of 10 
+>
+
+
+      
+*to do's*-
+>a logo
+>top menu consisting 
+    >logo
+    >home button
+    >movies button with dropdown menu consistng of hollywood,bollywood,mollywood,tollywood,kollywood,sandalwood.
+    >web series button
+    >watchlist
+    it should be fixed to the top always.
+
+HOME page:-
+
+    BANNER of some random movies.No InternetNo Internet
+Try:
+
+Checking the network cables, modem and router
+Reconnecting to Wi-Fi
+DNS_PROBE_FINISHED_NO_INTERNET
+
+    >top rated movies list horizontal
+    >top rated series list horizontal
+    >latest movies list
+    >random lists
+
+    >bottom page 
+        >with some details and about us information.
+
+
+movie section page/web series page:>
+
+    movies list grid type check prime video for references.
+
+particular movie page:
+    check notebook
+#i
+ .  
+
+
+
